@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ayanna 👋
 
-<!--
-**ayanna230/ayanna230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a third-year **Applied AI student** at the University of Technology, Jamaica, just starting my coding journey.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Studying Applied Artificial Intelligence
+- 📍 Based in Kingston, Jamaica
+- 🌱 Learning and building projects as I go
+- 💡 Interested in AI and problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I'm Learning
+- **Python** — Working on improving my skills
+- **C++** — Currently exploring
+- **Data Analysis** — Still figuring this out
+
+## My Journey
+I'm new to development and building projects to learn. My GitHub is a space where I share what I'm working on and track my progress. If you're learning too, feel free to connect!
+
+## Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/ayannajack)
+- 📧 Email: Ayannachinyere@gmail.com
+
+---
+
+*"Every expert was once a beginner." — Keep building! 🚀*
