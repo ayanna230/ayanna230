@@ -1,6 +1,6 @@
 # Hi, I'm Ayanna 👋
 
-Welcome to my GitHub! I'm a third-year **Applied AI student** at the University of Technology, Jamaica, just starting my coding journey.
+Welcome to my GitHub! I'm a third-year **Applied AI student** at the University of Technology, Jamaica.
 
 ## About Me
 - 🎓 Studying Applied Artificial Intelligence
@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a third-year **Applied AI student** at the University 
 - **Data Analysis** — Still figuring this out
 
 ## My Journey
-I'm new to development and building projects to learn. My GitHub is a space where I share what I'm working on and track my progress. If you're learning too, feel free to connect!
+I love to development and building projects to learn. My GitHub is a space where I share what I'm working on and track my progress. Feel free to connect!
 
 ## Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/ayannajack)
