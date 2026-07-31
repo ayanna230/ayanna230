@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a third-year **Applied AI student** at the University 
 I love to development and building projects to learn. My GitHub is a space where I share what I'm working on and track my progress. Feel free to connect!
 
 ## Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/ayannajack)
+- 💼 [LinkedIn](www.linkedin.com/in/ayanna-jack-b02929271)
 - 📧 Email: Ayannachinyere@gmail.com
 
 ---
