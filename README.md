@@ -1,6 +1,6 @@
 # Hi, I'm Ayanna 👋
 
-Welcome to my GitHub! I'm a third-year **Applied AI student** at the University of Technology, Jamaica.
+Welcome to my GitHub! I'm a fourth-year **Applied AI student** at the University of Technology, Jamaica.
 
 ## About Me
 - 🎓 Studying Applied Artificial Intelligence
